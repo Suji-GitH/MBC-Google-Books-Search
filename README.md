@@ -49,12 +49,12 @@ Landing Page
 <img src = "./client/public/Screenshots/LandingPage.jpg">
 
 Search Book
-<img src = "./public/Screenshots/Search.jpg">
+<img src = "./client/public/Screenshots/Search.jpg">
 
 Saved Books
-<img src = "./public/Screenshots/SaveBooks.jpg">
+<img src = "./client/public/Screenshots/SaveBooks.jpg">
 
-<img src = "./public/Screenshots/SaveBooks1.jpg">
+<img src = "./client/public/Screenshots/SaveBooks1.jpg">
 
 ## Credits
 
