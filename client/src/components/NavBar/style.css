@@ -1,5 +1,8 @@
 nav {
-    background-color: rgb(255,143,111)
+    background-image: url("./Banner.png");
+    background-size: 100% auto;
+    height: 150px;
+    margin-bottom: 20px;
 }
 
 a {

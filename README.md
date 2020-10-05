@@ -2,9 +2,9 @@
 
 ## Application & Repository Link
 
-###### [Application Link](https://suji-gith.github.io/MBC-Employee-Directory/)
+###### [Application Link](https://sleepy-everglades-97491.herokuapp.com/)
 
-###### [Repository Link](https://github.com/Suji-GitH/MBC-Employee-Directory)
+###### [Repository Link](https://github.com/Suji-GitH/MBC-Google-Books-Search)
 
 ## Content
 - [Overview](#Overview)
