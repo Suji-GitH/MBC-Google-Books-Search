@@ -46,13 +46,15 @@ At a minimum, books should have each of the following fields:
 ###### App Screenshots
 
 Landing Page
-<img src = "./public/Screenshots/LandingPage.jpg">
+<img src = "./client/public/Screenshots/LandingPage.jpg">
 
 Search Book
-<img src = "./public/Screenshots/AlphaOrder.jpg">
+<img src = "./public/Screenshots/Search.jpg">
 
-Search Specific User
-<img src = "./public/Screenshots/SearchUser.jpg">
+Saved Books
+<img src = "./public/Screenshots/SaveBooks.jpg">
+
+<img src = "./public/Screenshots/SaveBooks1.jpg">
 
 ## Credits
 
